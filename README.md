@@ -3,6 +3,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
+<img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
+<img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
 </p>
 
 ## Table of Contents
