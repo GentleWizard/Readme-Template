@@ -3,8 +3,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
-<img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
-<img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
+<img src="https://img.shields.io/badge/html-5-red"/>
+<img src="https://img.shields.io/badge/CSS-3-blue"/>
+<img src="https://img.shields.io/badge/LANGUAGE-ES6-yellow"/>
 </p>
 
 ## Table of Contents
