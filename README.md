@@ -68,7 +68,7 @@ Contributions are welcome and appreciated! If you'd like to contribute to this p
     Make your changes
     Create a pull request
 
-Please ensure your pull request adheres to the [code of conduct](CODE_OF_CONDUCT.md).
+Please ensure your pull request adheres to the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 For more information on how to contribute to this repository, please see [CONTRIBUTING](CONTRIBUTING.md)
 
