@@ -9,7 +9,7 @@
 </p>
 
 
-<details>
+<details align="center">
 <summary>Table of Contents<summary>
 
 - [About](#about)
