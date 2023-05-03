@@ -1,14 +1,16 @@
 <h1 align="center">Project Name</h1>
 <p align="center">Short description of the project.</p>
-
+<!--  -->
 <p align="center">
-<!-- COMMENT <img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/> -->
+<!-- <img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/> -->
 <img src="https://img.shields.io/badge/html-5-red"/>
 <img src="https://img.shields.io/badge/CSS-3-blue"/>
 <img src="https://img.shields.io/badge/LANGUAGE-ES6-yellow"/>
 </p>
 
-## Table of Contents
+
+<details>
+<summary>Table of Contents<summary>
 
 - [About](#about)
 - [Features](#features)
@@ -17,6 +19,8 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+</details>
 
 ## About
 
