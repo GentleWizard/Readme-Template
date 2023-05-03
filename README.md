@@ -62,7 +62,15 @@ To use the application:
 
 ## 6. Contributing
 
-For contributing to this repository please visit [CONTRIBUTING](CONTRIBUTING.md)
+Contributions are welcome and appreciated! If you'd like to contribute to this project, please follow these guidelines:
+
+    Fork this repository
+    Make your changes
+    Create a pull request
+
+Please ensure your pull request adheres to the [code of conduct](CODE_OF_CONDUCT.md).
+
+For more information on how to contribute to this repository, please see [CONTRIBUTING](CONTRIBUTING.md)
 
 ## 7. License
 
