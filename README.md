@@ -1,6 +1,9 @@
 <h1 align="center">Project Name</h1>
 <p align="center">Short description of the project.</p>
 
+<p align="center">
+https://img.shields.io/badge/LANGUAGE-VERSION-COLOR
+</p>
 ## Table of Contents
 
 - [About](#about)
