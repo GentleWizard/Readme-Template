@@ -44,4 +44,4 @@ Instructions on how to contribute to the project.
 
 ## License
 
-This project is released under a specific license. Please refer to the LICENSE file included in the project for the terms and conditions of the license.
+This project is released under a specific license. Please refer to the [LICENSE](LICENSE) file included in the project for the terms and conditions of the license.
