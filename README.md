@@ -2,7 +2,7 @@
 <p align="center">Short description of the project.</p>
 
 <p align="center">
-https://img.shields.io/badge/test-v-red
+<img src="https://img.shields.io/badge/LANGUAGE-VERSION-COLOUR"/>
 </p>
 
 ## Table of Contents
