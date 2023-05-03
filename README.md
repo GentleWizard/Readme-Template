@@ -1,6 +1,5 @@
-# Project Name
-
-Short description of the project.
+<h1 align="center">Project Name</h1>
+<p align="center">Short description of the project.</p>
 
 ## Table of Contents
 
@@ -38,4 +37,4 @@ Instructions on how to contribute to the project.
 
 ## License
 
-Information about the license of the project.
+This project is released under a specific license. Please refer to the LICENSE file included in the project for the terms and conditions of the license.
