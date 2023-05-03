@@ -8,9 +8,10 @@
 <img src="https://img.shields.io/badge/LANGUAGE-ES6-yellow"/>
 </p>
 
+<center>
 
-<details align="center">
-<summary>Table of Contents<summary>
+<details open>
+<summary>Table of Contents</summary>
 
 - [About](#about)
 - [Features](#features)
@@ -21,6 +22,8 @@
 - [License](#license)
 
 </details>
+
+</center>
 
 ## About
 
