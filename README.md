@@ -3,9 +3,9 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=<STYLE>&logo=<LOGO>"/> -->
-<img src="https://img.shields.io/badge/html-5-red?style=Social&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-3-blue?style=Plastic&logo=css3"/>
-<img src="https://img.shields.io/badge/Javascript-ES6-yellow?style=Flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/html-5-red?style=flat&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3"/>
+<img src="https://img.shields.io/badge/Javascript-ES6-yellow?style=Flat&logo=javascript"/>
 </p>
 
 <details open>
