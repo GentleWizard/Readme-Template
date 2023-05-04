@@ -64,9 +64,9 @@ To use the application:
 
 Contributions are welcome and appreciated! If you'd like to contribute to this project, please follow these guidelines:
 
-    Fork this repository
-    Make your changes
-    Create a pull request
+1. Fork this repository
+2. Make your changes
+3. Create a pull request
 
 Please ensure your pull request adheres to the [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
